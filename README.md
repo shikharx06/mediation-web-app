@@ -1,2 +1,5 @@
 # mediation-web-app
-a web app for meditation
+
+Features:
+  1. dual modes of meditation - rain and sea breeze
+  2. set multiple different timings
