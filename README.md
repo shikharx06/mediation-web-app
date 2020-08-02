@@ -1,4 +1,4 @@
-# mediation-web-app &nbsp; :point_right: &nbsp; ![https://shikharx06.github.io/mediation-web-app/](https://img.shields.io/website?down_color=lightred&down_message=down&style=for-the-badge&up_color=green&up_message=UP&url=https%3A%2F%2Fshikharx06.github.io%2Fmediation-web-app%2F)
+# mediation-web-app &nbsp; &nbsp; ![https://shikharx06.github.io/mediation-web-app/](https://img.shields.io/website?down_color=lightred&down_message=down&style=for-the-badge&up_color=green&up_message=UP&url=https%3A%2F%2Fshikharx06.github.io%2Fmediation-web-app%2F)
 
 Features:
 
